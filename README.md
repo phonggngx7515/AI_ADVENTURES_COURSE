@@ -1,1 +1,1 @@
-# AI_Adventures-Innov8
+# Project for predicting the possibility of CHD
