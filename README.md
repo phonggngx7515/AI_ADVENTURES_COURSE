@@ -1,1 +1,1 @@
-# Project for predicting the possibility of CHD
+# Project for predicting the possibility of CHD by INNOV8 team
